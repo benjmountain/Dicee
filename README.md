@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 The Dicee iOS Application generated from the learning and development class on Udemy, [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
-=======
+
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Dicee
